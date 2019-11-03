@@ -20,6 +20,7 @@
 		"manufacturerId": [411, 816],
 		"productTypeId": 768,
 		"productId": 41735,
+		"includeSecure": false,
 		"productDocumentation": "",
 		"pid": 9999,
 		"imageRemotePath": "",

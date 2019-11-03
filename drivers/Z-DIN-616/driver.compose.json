@@ -30,6 +30,7 @@
 		"manufacturerId": 564,
 		"productTypeId": 3,
 		"productId": 274,
+		"includeSecure": false,
 		"productDocumentation": "",
 		"pid": 3065,
 		"imageRemotePath": "",
